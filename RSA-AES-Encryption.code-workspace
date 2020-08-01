@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "./Codes",
+			"name": "Codes"
+		},
+		{
+			"path": ".",
+			"name": "Root"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "D:\\Envs\\PythonEnvs\\RSA-AES-Encryption-network-ver-CmMheDoB\\Scripts\\python.exe"
+	}
+}
